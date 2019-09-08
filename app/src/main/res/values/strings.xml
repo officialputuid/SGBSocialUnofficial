@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SGB Social (Unofficial)</string>
+    <string name="content_desc_img">Icon</string>
+    <string name="text_notice">\' Unofficial Sharing Gils Blog Apps \'</string>
+
+    <!--Your Website URL-->
+    <string name="website">https://social.sgbteam.id</string>
+    <string name="uploads_disabled">Uploads Disabled</string>
+    <string name="choose_upload">Choose Upload</string>
+
+
+    <!-- FOR SLIDE FIRST -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start"> </string>
+
+</resources>

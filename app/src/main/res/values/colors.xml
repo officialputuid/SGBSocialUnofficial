@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFBD24</color>
+    <color name="colorPrimaryDark">#6C63FF</color>
+    <color name="colorAccent">#FFBD24</color>
+    <color name="background">#1F1A2E</color>
+    <color name="colorAccentPress">#FFBD24</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorGrey">#c3c3c3 </color>
+
+    <color name="finestWhite10">#1AFFFFFF</color>
+    <color name="finestWhite20">#33FFFFFF</color>
+    <color name="finestWhite30">#4DFFFFFF</color>
+
+    <color name="finestGray10">#1AD2D2D2</color>
+    <color name="finestGray20">#33D2D2D2</color>
+
+    <color name="finestBlack05">#0D202020</color>
+    <color name="finestBlack10">#1A202020</color>
+    <color name="finestBlack20">#33202020</color>
+    <color name="finestBlack30">#4D202020</color>
+    <color name="finestBlack40">#66202020</color>
+
+    <color name="finestWhite">#FFFFFF</color>
+    <color name="finestBlack">#000000</color>
+    <color name="finestSilver">#A5A5A5</color>
+    <color name="finestGray">#E7E7E7</color>
+
+    <color name="colorTitleHeader">#FFFFFF</color>
+    <color name="colorDescHeader">#E4E3FE</color>
+
+    <color name="colorBackground01">#FFFFFF</color>
+    <color name="colorBackground02">#F7F7F7</color>
+    <color name="textColorPrimary">#111111</color>
+    <color name="textColorSecondary">#666666</color>
+
+    <color name="textNotice">#6600e5</color>
+    <color name="textNoticePress">#410086</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#800000</color>
+    <color name="bg_screen2">#006400</color>
+    <color name="bg_screen3">#008B8B</color>
+    <color name="bg_screen4">#8A2BE2</color>
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#F8F8F8</color>
+    <color name="dot_dark_screen2">#F8F8F8</color>
+    <color name="dot_dark_screen3">#F8F8F8</color>
+    <color name="dot_dark_screen4">#1F1A2E</color>
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#FFBD24</color>
+    <color name="dot_light_screen2">#FFBD24</color>
+    <color name="dot_light_screen3">#FFBD24</color>
+    <color name="dot_light_screen4">#F8F8F8</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <!--
+Flat UI Colors
+found at http://flatuicolors.com/
+-->
+    <color name="flatui_turquoise">#1abc9c</color>
+    <color name="flatui_green_sea">#16a085</color>
+    <color name="flatui_emerald">#2ecc71</color>
+    <color name="flatui_nephritis">#27ae60</color>
+    <color name="flatui_peter_river">#3498db</color>
+    <color name="flatui_belize_hole">#2980b9</color>
+    <color name="flatui_amethyst">#9b59b6</color>
+    <color name="flatui_wisteria">#8e44ad</color>
+    <color name="flatui_wet_asphalt">#34495e</color>
+    <color name="flatui_midnight_blue">#2c3e50</color>
+    <color name="flatui_sun_flower">#f1c40f</color>
+    <color name="flatui_orange">#f39c12</color>
+    <color name="flatui_carrot">#e67e22</color>
+    <color name="flatui_pumpkin">#d35400</color>
+    <color name="flatui_alizarin">#e74c3c</color>
+    <color name="flatui_pomegranate">#c0392b</color>
+    <color name="flatui_clouds">#ecf0f1</color>
+    <color name="flatui_silver">#bdc3c7</color>
+    <color name="flatui_concrete">#95a5a6</color>
+    <color name="flatui_asbestos">#7f8c8d</color>
+</resources>

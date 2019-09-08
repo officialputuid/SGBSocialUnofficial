@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorWhite"
+        android:gravity="center_horizontal"
+        android:textSize="28sp"
+        android:fontFamily="@font/agane75_extra_bold"
+        android:text="Lebih Mudah!" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorDescHeader"
+        android:fontFamily="@font/agane55_roman"
+        android:gravity="center_horizontal"
+        android:textSize="16sp"
+        android:text="Akses banyak fitur dengan satu Aplikasi" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="176dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginBottom="48dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/content_desc_img"
+        android:src="@drawable/tampilan_3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/agane65_bold"
+        android:text="Fitur Membership"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/slide_title"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/agane55_roman"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+        android:lineSpacingExtra="2dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorDescHeader"
+        android:textSize="@dimen/slide_desc" />
+
+
+</LinearLayout>

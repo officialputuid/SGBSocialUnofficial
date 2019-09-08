@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_beranda"
+        android:title="beranda" />
+
+    <item
+        android:id="@+id/nav_grup"
+        android:icon="@drawable/ic_grup"
+        android:title="grup" />
+
+    <item
+        android:id="@+id/nav_forum"
+        android:icon="@drawable/ic_forum"
+        android:title="forum" />
+
+    <item
+        android:id="@+id/nav_member"
+        android:icon="@drawable/ic_code"
+        android:title="member" />
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info"
+        android:title="info" />
+
+</menu>
