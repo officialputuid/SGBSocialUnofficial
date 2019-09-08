@@ -9,5 +9,5 @@
 ## Contributing
 	☆ Code by I Putu Jaya Adi Pranata (officialputuid)
 	☆ Assets Files (images,icon,font) by Bisma Windiyanto
-  ☆ Supported by Aldo Saputra (Admin SGB Team)
+	☆ Supported by Aldo Saputra (Admin SGB Team)
 
